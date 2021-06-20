@@ -220,3 +220,11 @@ C:\Users\Eid\Desktop\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\Eid\Desktop\Vidly\Vidly\obj\Debug\Vidly.pdb
 C:\Users\Eid\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 C:\Users\Eid\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMemberShipType.resources
+C:\Users\Eid\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMemberShipTypes.resources
+C:\Users\Eid\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationToCustomerName.resources
+C:\Users\Eid\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMemberShipTypes.resources
+C:\Users\Eid\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateNameOfMemberShipTypes.resources
+C:\Users\Eid\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthDateToCustomer.resources
+C:\Users\Eid\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNullableToBirthDateOfCustomer.resources
+C:\Users\Eid\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMoviesAndGenre.resources
+C:\Users\Eid\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateSomeGenres.resources
