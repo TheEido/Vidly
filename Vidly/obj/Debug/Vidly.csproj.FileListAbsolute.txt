@@ -106,3 +106,5 @@ F:\C# Eng Hani itake 39\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileI
 F:\C# Eng Hani itake 39\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 F:\C# Eng Hani itake 39\Projects\Vidly\Vidly\obj\Debug\Vidly.dll
 F:\C# Eng Hani itake 39\Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
+F:\C# Eng Hani itake 39\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+F:\C# Eng Hani itake 39\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
