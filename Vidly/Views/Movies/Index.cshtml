@@ -6,7 +6,10 @@
 
 <h2>Movies</h2>
 
+<input type="button" class="btn btn-primary" value="New Movie" onclick="location.href='@Url.Action("MovieForm", "Movies")'" />
 
+<br />
+<br />
 @if (!Model.Any())
 {
     <p>We have any Movies yet.</p>
@@ -25,7 +28,7 @@ else
             @foreach (var movie in Model)
             {
                 <tr>
-                    <td>@Html.ActionLink(movie.Name, "Details", new {id = movie.Id})</td>
+                    <td>@Html.ActionLink(movie.Name, "Edit", new { id = movie.Id })</td>
                     <td>@movie.Genre.Name</td>
                 </tr>
             }
