@@ -24,6 +24,7 @@ namespace Vidly.Models
 
         [Required]
         [Display(Name = "Number In Stock")]
+        [Range(0 , 30)]
         public int NumberInStock { get; set; }
 
 
