@@ -349,3 +349,11 @@ C:\Users\Eid\Documents\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\Eid\Documents\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\Eid\Documents\Vidly\Vidly\obj\Debug\Vidly.pdb
 C:\Users\Eid\Documents\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddAnnotationToMovie.resources
+C:\Users\Eid\Documents\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\Eid\Documents\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\Eid\Documents\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\Eid\Documents\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\Eid\Documents\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\Eid\Documents\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\Eid\Documents\Vidly\Vidly\bin\AutoMapper.dll
+C:\Users\Eid\Documents\Vidly\Vidly\bin\AutoMapper.xml

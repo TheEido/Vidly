@@ -25,8 +25,8 @@ namespace Vidly.Controllers
 
         public ActionResult Index()
         {
-            var Movies = _context.Movies.Include(m => m.Genre).ToList();
-            return View(Movies);
+            
+            return View();
         }
 
         public ActionResult MovieForm()
